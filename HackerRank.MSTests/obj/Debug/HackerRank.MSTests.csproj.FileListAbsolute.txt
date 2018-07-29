@@ -1,0 +1,16 @@
+C:\Users\Jamal\source\repos\hackerranktesting\HackerRank.MSTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Jamal\source\repos\hackerranktesting\HackerRank.MSTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Jamal\source\repos\hackerranktesting\HackerRank.MSTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Jamal\source\repos\hackerranktesting\HackerRank.MSTests\bin\Debug\HackerRank.MSTests.dll
+C:\Users\Jamal\source\repos\hackerranktesting\HackerRank.MSTests\bin\Debug\HackerRank.MSTests.pdb
+C:\Users\Jamal\source\repos\hackerranktesting\HackerRank.MSTests\bin\Debug\hackerranktesting.dll
+C:\Users\Jamal\source\repos\hackerranktesting\HackerRank.MSTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Jamal\source\repos\hackerranktesting\HackerRank.MSTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Jamal\source\repos\hackerranktesting\HackerRank.MSTests\bin\Debug\hackerranktesting.pdb
+C:\Users\Jamal\source\repos\hackerranktesting\HackerRank.MSTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Jamal\source\repos\hackerranktesting\HackerRank.MSTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Jamal\source\repos\hackerranktesting\HackerRank.MSTests\obj\Debug\HackerRank.MSTests.csprojAssemblyReference.cache
+C:\Users\Jamal\source\repos\hackerranktesting\HackerRank.MSTests\obj\Debug\HackerRank.MSTests.csproj.CoreCompileInputs.cache
+C:\Users\Jamal\source\repos\hackerranktesting\HackerRank.MSTests\obj\Debug\HackerRank.MSTests.csproj.CopyComplete
+C:\Users\Jamal\source\repos\hackerranktesting\HackerRank.MSTests\obj\Debug\HackerRank.MSTests.dll
+C:\Users\Jamal\source\repos\hackerranktesting\HackerRank.MSTests\obj\Debug\HackerRank.MSTests.pdb

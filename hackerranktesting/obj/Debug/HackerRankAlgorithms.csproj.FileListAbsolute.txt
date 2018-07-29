@@ -1,0 +1,10 @@
+C:\Users\Jamal\source\repos\hackerranktesting\hackerranktesting\bin\Debug\hackerranktesting.dll
+C:\Users\Jamal\source\repos\hackerranktesting\hackerranktesting\bin\Debug\hackerranktesting.pdb
+C:\Users\Jamal\source\repos\hackerranktesting\hackerranktesting\bin\Debug\nunit.framework.dll
+C:\Users\Jamal\source\repos\hackerranktesting\hackerranktesting\bin\Debug\nunit.framework.pdb
+C:\Users\Jamal\source\repos\hackerranktesting\hackerranktesting\bin\Debug\nunit.framework.xml
+C:\Users\Jamal\source\repos\hackerranktesting\hackerranktesting\obj\Debug\HackerRankAlgorithms.csprojAssemblyReference.cache
+C:\Users\Jamal\source\repos\hackerranktesting\hackerranktesting\obj\Debug\HackerRankAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\Jamal\source\repos\hackerranktesting\hackerranktesting\obj\Debug\HackerRankAlgorithms.csproj.CopyComplete
+C:\Users\Jamal\source\repos\hackerranktesting\hackerranktesting\obj\Debug\hackerranktesting.dll
+C:\Users\Jamal\source\repos\hackerranktesting\hackerranktesting\obj\Debug\hackerranktesting.pdb
